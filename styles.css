@@ -33,7 +33,7 @@ nav{
 }
 .nav_logo a{
     text-decoration: none;
-    color: red;
+    color: var(--text_light);
     font-size: 1.5rem;
 }
 .nav_logo span{
